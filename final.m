@@ -1,4 +1,4 @@
-% Aaron Valdes, PhD
+% Aaron Valdes,
 % April 27th, 2019
 % BME 211 KX, Spring 2019
 % Final
